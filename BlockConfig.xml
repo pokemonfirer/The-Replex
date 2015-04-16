@@ -33800,6 +33800,234 @@
 <Item count="1">GLASS_ID</Item>
 </Output>
 </Product>
+</Recipe>
+<Recipe costAmount="-1" costType="CREDITS" name="Capsule Refinery">
+<Product>
+<Input>
+<Item count="1">TERRAIN_M16L3_ID</Item>
+</Input>
+<Output>
+<Item count="30">TERRAIN_M16L4_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">TERRAIN_M5L3_ID</Item>
+</Input>
+<Output>
+<Item count="30">TERRAIN_M5L4_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">TERRAIN_M10L3_ID</Item>
+</Input>
+<Output>
+<Item count="30">TERRAIN_M10L4_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">TERRAIN_M1L3_ID</Item>
+</Input>
+<Output>
+<Item count="30">TERRAIN_M1L4_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">TERRAIN_M6L3_ID</Item>
+</Input>
+<Output>
+<Item count="30">TERRAIN_M6L4_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">TERRAIN_M8L3_ID</Item>
+</Input>
+<Output>
+<Item count="30">TERRAIN_M8L4_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">TERRAIN_M3L3_ID</Item>
+</Input>
+<Output>
+<Item count="30">TERRAIN_M3L4_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">TERRAIN_M4L3_ID</Item>
+</Input>
+<Output>
+<Item count="30">TERRAIN_M4L4_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">RESS_ORE_NACHT</Item>
+</Input>
+<Output>
+<Item count="5">TERRAIN_M16L2_ID</Item>
+<Item count="10">METAL_MESH</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">RESS_ORE_PARSTUN</Item>
+</Input>
+<Output>
+<Item count="5">TERRAIN_M5L2_ID</Item>
+<Item count="10">METAL_MESH</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">RESS_ORE_FERTIKEEN</Item>
+</Input>
+<Output>
+<Item count="5">TERRAIN_M10L2_ID</Item>
+<Item count="10">METAL_MESH</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">RESS_ORE_HITAL</Item>
+</Input>
+<Output>
+<Item count="5">TERRAIN_M1L2_ID</Item>
+<Item count="10">METAL_MESH</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">RESS_ORE_SERTISE</Item>
+</Input>
+<Output>
+<Item count="5">TERRAIN_M6L2_ID</Item>
+<Item count="10">METAL_MESH</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">RESS_ORE_ZERCANER</Item>
+</Input>
+<Output>
+<Item count="5">TERRAIN_M8L2_ID</Item>
+<Item count="10">METAL_MESH</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">RESS_ORE_JISPER</Item>
+</Input>
+<Output>
+<Item count="5">TERRAIN_M3L2_ID</Item>
+<Item count="10">METAL_MESH</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">RESS_ORE_THRENS</Item>
+</Input>
+<Output>
+<Item count="5">TERRAIN_M4L2_ID</Item>
+<Item count="10">METAL_MESH</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">RESS_CRYS_NOCX</Item>
+</Input>
+<Output>
+<Item count="5">TERRAIN_M15L2_ID</Item>
+<Item count="10">POWER_COIL_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">RESS_CRYS_PARSEN</Item>
+</Input>
+<Output>
+<Item count="5">TERRAIN_M7L2_ID</Item>
+<Item count="10">POWER_COIL_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">RESS_CRYS_BASTYN</Item>
+</Input>
+<Output>
+<Item count="5">TERRAIN_M12L2_ID</Item>
+<Item count="10">POWER_COIL_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">RESS_CRYS_VARAT</Item>
+</Input>
+<Output>
+<Item count="5">TERRAIN_M13L2_ID</Item>
+<Item count="10">POWER_COIL_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">RESS_CRYS_RAMMET</Item>
+</Input>
+<Output>
+<Item count="5">TERRAIN_M9L2_ID</Item>
+<Item count="10">POWER_COIL_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">RESS_CRYS_MATTISE</Item>
+</Input>
+<Output>
+<Item count="5">TERRAIN_M14L2_ID</Item>
+<Item count="10">POWER_COIL_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">RESS_CRYS_SINTYR</Item>
+</Input>
+<Output>
+<Item count="5">TERRAIN_M2L2_ID</Item>
+<Item count="10">POWER_COIL_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">RESS_CRYS_HATTEL</Item>
+</Input>
+<Output>
+<Item count="5">TERRAIN_M11L2_ID</Item>
+<Item count="10">POWER_COIL_ID</Item>
+</Output>
+</Product>
+</Recipe>
+<Recipe costAmount="-1" costType="CREDITS" name="Make Macro Factory Block">
+<Product>
+<Input>
+<Item count="10">METAL_MESH</Item>
+</Input>
+<Output>
+<Item count="1">FACTORY_INPUT_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">POWER_COIL_ID</Item>
+</Input>
+<Output>
+<Item count="1">FACTORY_INPUT_ID</Item>
+</Output>
+</Product>
 <Product>
 <Input>
 <Item count="10">HULL_COLOR_RED_ID</Item>
@@ -34518,234 +34746,6 @@
 </Input>
 <Output>
 <Item count="10">POWERHULL_COLOR_TETRA_GREY</Item>
-</Output>
-</Product>
-</Recipe>
-<Recipe costAmount="-1" costType="CREDITS" name="Capsule Refinery">
-<Product>
-<Input>
-<Item count="1">TERRAIN_M16L3_ID</Item>
-</Input>
-<Output>
-<Item count="30">TERRAIN_M16L4_ID</Item>
-</Output>
-</Product>
-<Product>
-<Input>
-<Item count="1">TERRAIN_M5L3_ID</Item>
-</Input>
-<Output>
-<Item count="30">TERRAIN_M5L4_ID</Item>
-</Output>
-</Product>
-<Product>
-<Input>
-<Item count="1">TERRAIN_M10L3_ID</Item>
-</Input>
-<Output>
-<Item count="30">TERRAIN_M10L4_ID</Item>
-</Output>
-</Product>
-<Product>
-<Input>
-<Item count="1">TERRAIN_M1L3_ID</Item>
-</Input>
-<Output>
-<Item count="30">TERRAIN_M1L4_ID</Item>
-</Output>
-</Product>
-<Product>
-<Input>
-<Item count="1">TERRAIN_M6L3_ID</Item>
-</Input>
-<Output>
-<Item count="30">TERRAIN_M6L4_ID</Item>
-</Output>
-</Product>
-<Product>
-<Input>
-<Item count="1">TERRAIN_M8L3_ID</Item>
-</Input>
-<Output>
-<Item count="30">TERRAIN_M8L4_ID</Item>
-</Output>
-</Product>
-<Product>
-<Input>
-<Item count="1">TERRAIN_M3L3_ID</Item>
-</Input>
-<Output>
-<Item count="30">TERRAIN_M3L4_ID</Item>
-</Output>
-</Product>
-<Product>
-<Input>
-<Item count="1">TERRAIN_M4L3_ID</Item>
-</Input>
-<Output>
-<Item count="30">TERRAIN_M4L4_ID</Item>
-</Output>
-</Product>
-<Product>
-<Input>
-<Item count="1">RESS_ORE_NACHT</Item>
-</Input>
-<Output>
-<Item count="5">TERRAIN_M16L2_ID</Item>
-<Item count="10">METAL_MESH</Item>
-</Output>
-</Product>
-<Product>
-<Input>
-<Item count="1">RESS_ORE_PARSTUN</Item>
-</Input>
-<Output>
-<Item count="5">TERRAIN_M5L2_ID</Item>
-<Item count="10">METAL_MESH</Item>
-</Output>
-</Product>
-<Product>
-<Input>
-<Item count="1">RESS_ORE_FERTIKEEN</Item>
-</Input>
-<Output>
-<Item count="5">TERRAIN_M10L2_ID</Item>
-<Item count="10">METAL_MESH</Item>
-</Output>
-</Product>
-<Product>
-<Input>
-<Item count="1">RESS_ORE_HITAL</Item>
-</Input>
-<Output>
-<Item count="5">TERRAIN_M1L2_ID</Item>
-<Item count="10">METAL_MESH</Item>
-</Output>
-</Product>
-<Product>
-<Input>
-<Item count="1">RESS_ORE_SERTISE</Item>
-</Input>
-<Output>
-<Item count="5">TERRAIN_M6L2_ID</Item>
-<Item count="10">METAL_MESH</Item>
-</Output>
-</Product>
-<Product>
-<Input>
-<Item count="1">RESS_ORE_ZERCANER</Item>
-</Input>
-<Output>
-<Item count="5">TERRAIN_M8L2_ID</Item>
-<Item count="10">METAL_MESH</Item>
-</Output>
-</Product>
-<Product>
-<Input>
-<Item count="1">RESS_ORE_JISPER</Item>
-</Input>
-<Output>
-<Item count="5">TERRAIN_M3L2_ID</Item>
-<Item count="10">METAL_MESH</Item>
-</Output>
-</Product>
-<Product>
-<Input>
-<Item count="1">RESS_ORE_THRENS</Item>
-</Input>
-<Output>
-<Item count="5">TERRAIN_M4L2_ID</Item>
-<Item count="10">METAL_MESH</Item>
-</Output>
-</Product>
-<Product>
-<Input>
-<Item count="1">RESS_CRYS_NOCX</Item>
-</Input>
-<Output>
-<Item count="5">TERRAIN_M15L2_ID</Item>
-<Item count="10">POWER_COIL_ID</Item>
-</Output>
-</Product>
-<Product>
-<Input>
-<Item count="1">RESS_CRYS_PARSEN</Item>
-</Input>
-<Output>
-<Item count="5">TERRAIN_M7L2_ID</Item>
-<Item count="10">POWER_COIL_ID</Item>
-</Output>
-</Product>
-<Product>
-<Input>
-<Item count="1">RESS_CRYS_BASTYN</Item>
-</Input>
-<Output>
-<Item count="5">TERRAIN_M12L2_ID</Item>
-<Item count="10">POWER_COIL_ID</Item>
-</Output>
-</Product>
-<Product>
-<Input>
-<Item count="1">RESS_CRYS_VARAT</Item>
-</Input>
-<Output>
-<Item count="5">TERRAIN_M13L2_ID</Item>
-<Item count="10">POWER_COIL_ID</Item>
-</Output>
-</Product>
-<Product>
-<Input>
-<Item count="1">RESS_CRYS_RAMMET</Item>
-</Input>
-<Output>
-<Item count="5">TERRAIN_M9L2_ID</Item>
-<Item count="10">POWER_COIL_ID</Item>
-</Output>
-</Product>
-<Product>
-<Input>
-<Item count="1">RESS_CRYS_MATTISE</Item>
-</Input>
-<Output>
-<Item count="5">TERRAIN_M14L2_ID</Item>
-<Item count="10">POWER_COIL_ID</Item>
-</Output>
-</Product>
-<Product>
-<Input>
-<Item count="1">RESS_CRYS_SINTYR</Item>
-</Input>
-<Output>
-<Item count="5">TERRAIN_M2L2_ID</Item>
-<Item count="10">POWER_COIL_ID</Item>
-</Output>
-</Product>
-<Product>
-<Input>
-<Item count="1">RESS_CRYS_HATTEL</Item>
-</Input>
-<Output>
-<Item count="5">TERRAIN_M11L2_ID</Item>
-<Item count="10">POWER_COIL_ID</Item>
-</Output>
-</Product>
-</Recipe>
-<Recipe costAmount="-1" costType="CREDITS" name="Make Macro Factory Block">
-<Product>
-<Input>
-<Item count="10">METAL_MESH</Item>
-</Input>
-<Output>
-<Item count="1">FACTORY_INPUT_ID</Item>
-</Output>
-</Product>
-<Product>
-<Input>
-<Item count="10">POWER_COIL_ID</Item>
-</Input>
-<Output>
-<Item count="1">FACTORY_INPUT_ID</Item>
 </Output>
 </Product>
 </Recipe>
