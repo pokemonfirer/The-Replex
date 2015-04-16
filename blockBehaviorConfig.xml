@@ -21,7 +21,7 @@
                         <ShieldRechargePowerConsuption>10</ShieldRechargePowerConsuption> <!-- (when shield < 100%) per regen point -->
                         <ShieldFullPowerConsuption>1</ShieldFullPowerConsuption> <!-- (when shield == 100%) per regen point -->
                         <PowerDivFactor>0.333</PowerDivFactor>
-                        <PowerCeiling>1000000.0</PowerCeiling>
+                        <PowerCeiling>2000000.0</PowerCeiling>
                         <PowerGrowth>1.000696</PowerGrowth>
                         <PowerLinearGrowth>25.0</PowerLinearGrowth>
                         <PowerRecoveryTime>1000</PowerRecoveryTime>
