@@ -34010,24 +34010,6 @@
 <Item count="10">POWER_COIL_ID</Item>
 </Output>
 </Product>
-</Recipe>
-<Recipe costAmount="-1" costType="CREDITS" name="Make Macro Factory Block">
-<Product>
-<Input>
-<Item count="10">METAL_MESH</Item>
-</Input>
-<Output>
-<Item count="1">FACTORY_INPUT_ID</Item>
-</Output>
-</Product>
-<Product>
-<Input>
-<Item count="10">POWER_COIL_ID</Item>
-</Input>
-<Output>
-<Item count="1">FACTORY_INPUT_ID</Item>
-</Output>
-</Product>
 <Product>
 <Input>
 <Item count="10">HULL_COLOR_RED_ID</Item>
@@ -34746,6 +34728,24 @@
 </Input>
 <Output>
 <Item count="10">POWERHULL_COLOR_TETRA_GREY</Item>
+</Output>
+</Product>
+</Recipe>
+<Recipe costAmount="-1" costType="CREDITS" name="Make Macro Factory Block">
+<Product>
+<Input>
+<Item count="10">METAL_MESH</Item>
+</Input>
+<Output>
+<Item count="1">FACTORY_INPUT_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">POWER_COIL_ID</Item>
+</Input>
+<Output>
+<Item count="1">FACTORY_INPUT_ID</Item>
 </Output>
 </Product>
 </Recipe>
@@ -44840,6 +44840,7 @@
 </Product>
 </Recipe>
 <Recipe costAmount="10000" costType="CREDITS" name="Expand Hulls">
+
 <Product>
 <Input>
 <Item count="1">POWERHULL_COLOR_GREY</Item>
