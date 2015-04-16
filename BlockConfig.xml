@@ -33192,6 +33192,1334 @@
 <Item count="2">METAL_MESH</Item>
 </Output>
 </Product>
+<Product>
+<Input>
+<Item count="1">HULL_COLOR_WEDGE_GREY_ID</Item>
+</Input>
+<Output>
+<Item count="1">HULL_COLOR_GREY_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">HULL_COLOR_CORNER_GREY_ID</Item>
+</Input>
+<Output>
+<Item count="1">HULL_COLOR_GREY_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">HULL_COLOR_TETRA_GREY_ID</Item>
+</Input>
+<Output>
+<Item count="1">HULL_COLOR_GREY_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">HULL_COLOR_PENTA_GREY_ID</Item>
+</Input>
+<Output>
+<Item count="1">HULL_COLOR_GREY_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">POWERHULL_COLOR_WEDGE_GREY</Item>
+</Input>
+<Output>
+<Item count="1">POWERHULL_COLOR_GREY</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">POWERHULL_COLOR_CORNER_GREY</Item>
+</Input>
+<Output>
+<Item count="1">POWERHULL_COLOR_GREY</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">POWERHULL_COLOR_PENTA_GREY</Item>
+</Input>
+<Output>
+<Item count="1">POWERHULL_COLOR_GREY</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">POWERHULL_COLOR_TETRA_GREY</Item>
+</Input>
+<Output>
+<Item count="1">POWERHULL_COLOR_GREY</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">HULL_COLOR_WEDGE_PURPLE_ID</Item>
+</Input>
+<Output>
+<Item count="1">HULL_COLOR_PURPLE_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">HULL_COLOR_CORNER_PURPLE_ID</Item>
+</Input>
+<Output>
+<Item count="1">HULL_COLOR_PURPLE_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">HULL_COLOR_TETRA_PURPLE_ID</Item>
+</Input>
+<Output>
+<Item count="1">HULL_COLOR_PURPLE_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">HULL_COLOR_PENTA_PURPLE_ID</Item>
+</Input>
+<Output>
+<Item count="1">HULL_COLOR_PURPLE_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">POWERHULL_COLOR_WEDGE_PURPLE</Item>
+</Input>
+<Output>
+<Item count="1">POWERHULL_COLOR_PURPLE</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">POWERHULL_COLOR_CORNER_PURPLE</Item>
+</Input>
+<Output>
+<Item count="1">POWERHULL_COLOR_PURPLE</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">POWERHULL_COLOR_PENTA_PURPLE</Item>
+</Input>
+<Output>
+<Item count="1">POWERHULL_COLOR_PURPLE</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">POWERHULL_COLOR_TETRA_PURPLE</Item>
+</Input>
+<Output>
+<Item count="1">POWERHULL_COLOR_PURPLE</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">HULL_COLOR_WEDGE_BROWN_ID</Item>
+</Input>
+<Output>
+<Item count="1">HULL_COLOR_BROWN_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">HULL_COLOR_CORNER_BROWN_ID</Item>
+</Input>
+<Output>
+<Item count="1">HULL_COLOR_BROWN_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">HULL_COLOR_TETRA_BROWN_ID</Item>
+</Input>
+<Output>
+<Item count="1">HULL_COLOR_BROWN_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">HULL_COLOR_PENTA_BROWN_ID</Item>
+</Input>
+<Output>
+<Item count="1">HULL_COLOR_BROWN_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">POWERHULL_COLOR_WEDGE_BROWN</Item>
+</Input>
+<Output>
+<Item count="1">POWERHULL_COLOR_BROWN</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">POWERHULL_COLOR_CORNER_BROWN</Item>
+</Input>
+<Output>
+<Item count="1">POWERHULL_COLOR_BROWN</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">POWERHULL_COLOR_PENTA_BROWN</Item>
+</Input>
+<Output>
+<Item count="1">POWERHULL_COLOR_BROWN</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">POWERHULL_COLOR_TETRA_BROWN</Item>
+</Input>
+<Output>
+<Item count="1">POWERHULL_COLOR_BROWN</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">HULL_COLOR_WEDGE_BLACK_ID</Item>
+</Input>
+<Output>
+<Item count="1">HULL_COLOR_BLACK_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">HULL_COLOR_CORNER_BLACK_ID</Item>
+</Input>
+<Output>
+<Item count="1">HULL_COLOR_BLACK_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">HULL_COLOR_TETRA_BLACK_ID</Item>
+</Input>
+<Output>
+<Item count="1">HULL_COLOR_BLACK_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">HULL_COLOR_PENTA_BLACK_ID</Item>
+</Input>
+<Output>
+<Item count="1">HULL_COLOR_BLACK_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">POWERHULL_COLOR_WEDGE_BLACK</Item>
+</Input>
+<Output>
+<Item count="1">POWERHULL_COLOR_BLACK</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">POWERHULL_COLOR_CORNER_BLACK</Item>
+</Input>
+<Output>
+<Item count="1">POWERHULL_COLOR_BLACK</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">POWERHULL_COLOR_PENTA_BLACK</Item>
+</Input>
+<Output>
+<Item count="1">POWERHULL_COLOR_BLACK</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">POWERHULL_COLOR_TETRA_BLACK</Item>
+</Input>
+<Output>
+<Item count="1">POWERHULL_COLOR_BLACK</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">HULL_COLOR_WEDGE_RED_ID</Item>
+</Input>
+<Output>
+<Item count="1">HULL_COLOR_RED_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">HULL_COLOR_CORNER_RED_ID</Item>
+</Input>
+<Output>
+<Item count="1">HULL_COLOR_RED_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">HULL_COLOR_TETRA_RED_ID</Item>
+</Input>
+<Output>
+<Item count="1">HULL_COLOR_RED_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">HULL_COLOR_PENTA_RED_ID</Item>
+</Input>
+<Output>
+<Item count="1">HULL_COLOR_RED_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">POWERHULL_COLOR_WEDGE_RED</Item>
+</Input>
+<Output>
+<Item count="1">POWERHULL_COLOR_RED</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">POWERHULL_COLOR_CORNER_RED</Item>
+</Input>
+<Output>
+<Item count="1">POWERHULL_COLOR_RED</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">POWERHULL_COLOR_PENTA_RED</Item>
+</Input>
+<Output>
+<Item count="1">POWERHULL_COLOR_RED</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">POWERHULL_COLOR_TETRA_RED</Item>
+</Input>
+<Output>
+<Item count="1">POWERHULL_COLOR_RED</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">HULL_COLOR_WEDGE_BLUE_ID</Item>
+</Input>
+<Output>
+<Item count="1">HULL_COLOR_BLUE_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">HULL_COLOR_CORNER_BLUE_ID</Item>
+</Input>
+<Output>
+<Item count="1">HULL_COLOR_BLUE_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">HULL_COLOR_TETRA_BLUE_ID</Item>
+</Input>
+<Output>
+<Item count="1">HULL_COLOR_BLUE_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">HULL_COLOR_PENTA_BLUE_ID</Item>
+</Input>
+<Output>
+<Item count="1">HULL_COLOR_BLUE_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">POWERHULL_COLOR_WEDGE_BLUE</Item>
+</Input>
+<Output>
+<Item count="1">POWERHULL_COLOR_BLUE</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">POWERHULL_COLOR_CORNER_BLUE</Item>
+</Input>
+<Output>
+<Item count="1">POWERHULL_COLOR_BLUE</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">POWERHULL_COLOR_PENTA_BLUE</Item>
+</Input>
+<Output>
+<Item count="1">POWERHULL_COLOR_BLUE</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">POWERHULL_COLOR_TETRA_BLUE</Item>
+</Input>
+<Output>
+<Item count="1">POWERHULL_COLOR_BLUE</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">HULL_COLOR_WEDGE_GREEN_ID</Item>
+</Input>
+<Output>
+<Item count="1">HULL_COLOR_GREEN_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">HULL_COLOR_CORNER_GREEN_ID</Item>
+</Input>
+<Output>
+<Item count="1">HULL_COLOR_GREEN_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">HULL_COLOR_TETRA_GREEN_ID</Item>
+</Input>
+<Output>
+<Item count="1">HULL_COLOR_GREEN_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">HULL_COLOR_PENTA_GREEN_ID</Item>
+</Input>
+<Output>
+<Item count="1">HULL_COLOR_GREEN_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">POWERHULL_COLOR_WEDGE_GREEN</Item>
+</Input>
+<Output>
+<Item count="1">POWERHULL_COLOR_GREEN</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">POWERHULL_COLOR_CORNER_GREEN</Item>
+</Input>
+<Output>
+<Item count="1">POWERHULL_COLOR_GREEN</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">POWERHULL_COLOR_PENTA_GREEN</Item>
+</Input>
+<Output>
+<Item count="1">POWERHULL_COLOR_GREEN</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">POWERHULL_COLOR_TETRA_GREEN</Item>
+</Input>
+<Output>
+<Item count="1">POWERHULL_COLOR_GREEN</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">HULL_COLOR_WEDGE_YELLOW_ID</Item>
+</Input>
+<Output>
+<Item count="1">HULL_COLOR_YELLOW_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">HULL_COLOR_CORNER_YELLOW_ID</Item>
+</Input>
+<Output>
+<Item count="1">HULL_COLOR_YELLOW_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">HULL_COLOR_TETRA_YELLOW_ID</Item>
+</Input>
+<Output>
+<Item count="1">HULL_COLOR_YELLOW_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">HULL_COLOR_PENTA_YELLOW_ID</Item>
+</Input>
+<Output>
+<Item count="1">HULL_COLOR_YELLOW_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">POWERHULL_COLOR_WEDGE_YELLOW</Item>
+</Input>
+<Output>
+<Item count="1">POWERHULL_COLOR_YELLOW</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">POWERHULL_COLOR_CORNER_YELLOW</Item>
+</Input>
+<Output>
+<Item count="1">POWERHULL_COLOR_YELLOW</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">POWERHULL_COLOR_PENTA_YELLOW</Item>
+</Input>
+<Output>
+<Item count="1">POWERHULL_COLOR_YELLOW</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">POWERHULL_COLOR_TETRA_YELLOW</Item>
+</Input>
+<Output>
+<Item count="1">POWERHULL_COLOR_YELLOW</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">HULL_COLOR_WEDGE_WHITE_ID</Item>
+</Input>
+<Output>
+<Item count="1">HULL_COLOR_WHITE_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">HULL_COLOR_CORNER_WHITE_ID</Item>
+</Input>
+<Output>
+<Item count="1">HULL_COLOR_WHITE_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">HULL_COLOR_TETRA_WHITE_ID</Item>
+</Input>
+<Output>
+<Item count="1">HULL_COLOR_WHITE_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">HULL_COLOR_PENTA_WHITE_ID</Item>
+</Input>
+<Output>
+<Item count="1">HULL_COLOR_WHITE_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">POWERHULL_COLOR_WEDGE_WHITE</Item>
+</Input>
+<Output>
+<Item count="1">POWERHULL_COLOR_WHITE</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">POWERHULL_COLOR_CORNER_WHITE</Item>
+</Input>
+<Output>
+<Item count="1">POWERHULL_COLOR_WHITE</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">POWERHULL_COLOR_PENTA_WHITE</Item>
+</Input>
+<Output>
+<Item count="1">POWERHULL_COLOR_WHITE</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">POWERHULL_COLOR_TETRA_WHITE</Item>
+</Input>
+<Output>
+<Item count="1">POWERHULL_COLOR_WHITE</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">GLASS_WEDGE_ID</Item>
+</Input>
+<Output>
+<Item count="1">GLASS_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">GLASS_CORNER_ID</Item>
+</Input>
+<Output>
+<Item count="1">GLASS_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">GLASS_TETRA_ID</Item>
+</Input>
+<Output>
+<Item count="1">GLASS_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">GLASS_PENTA_ID</Item>
+</Input>
+<Output>
+<Item count="1">GLASS_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">HULL_COLOR_RED_ID</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">HULL_COLOR_GREY_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">HULL_COLOR_PURPLE_ID</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">HULL_COLOR_GREY_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">HULL_COLOR_BROWN_ID</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">HULL_COLOR_GREY_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">HULL_COLOR_BLACK_ID</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">HULL_COLOR_GREY_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">HULL_COLOR_BLUE_ID</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">HULL_COLOR_GREY_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">HULL_COLOR_GREEN_ID</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">HULL_COLOR_GREY_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">HULL_COLOR_YELLOW_ID</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">HULL_COLOR_GREY_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">HULL_COLOR_WHITE_ID</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">HULL_COLOR_GREY_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">HULL_COLOR_WEDGE_RED_ID</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">HULL_COLOR_WEDGE_GREY_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">HULL_COLOR_WEDGE_PURPLE_ID</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">HULL_COLOR_WEDGE_GREY_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">HULL_COLOR_WEDGE_BROWN_ID</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">HULL_COLOR_WEDGE_GREY_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">HULL_COLOR_WEDGE_BLACK_ID</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">HULL_COLOR_WEDGE_GREY_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">HULL_COLOR_WEDGE_BLUE_ID</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">HULL_COLOR_WEDGE_GREY_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">HULL_COLOR_WEDGE_GREEN_ID</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">HULL_COLOR_WEDGE_GREY_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">HULL_COLOR_WEDGE_YELLOW_ID</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">HULL_COLOR_WEDGE_GREY_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">HULL_COLOR_WEDGE_WHITE_ID</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">HULL_COLOR_WEDGE_GREY_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">HULL_COLOR_CORNER_RED_ID</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">HULL_COLOR_CORNER_GREY_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">HULL_COLOR_CORNER_PURPLE_ID</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">HULL_COLOR_CORNER_GREY_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">HULL_COLOR_CORNER_BROWN_ID</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">HULL_COLOR_CORNER_GREY_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">HULL_COLOR_CORNER_BLACK_ID</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">HULL_COLOR_CORNER_GREY_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">HULL_COLOR_CORNER_BLUE_ID</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">HULL_COLOR_CORNER_GREY_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">HULL_COLOR_CORNER_GREEN_ID</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">HULL_COLOR_CORNER_GREY_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">HULL_COLOR_CORNER_YELLOW_ID</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">HULL_COLOR_CORNER_GREY_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">HULL_COLOR_CORNER_WHITE_ID</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">HULL_COLOR_CORNER_GREY_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">HULL_COLOR_PENTA_RED_ID</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">HULL_COLOR_PENTA_GREY_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">HULL_COLOR_PENTA_PURPLE_ID</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">HULL_COLOR_PENTA_GREY_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">HULL_COLOR_PENTA_BROWN_ID</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">HULL_COLOR_PENTA_GREY_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">HULL_COLOR_PENTA_BLACK_ID</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">HULL_COLOR_PENTA_GREY_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">HULL_COLOR_PENTA_BLUE_ID</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">HULL_COLOR_PENTA_GREY_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">HULL_COLOR_PENTA_GREEN_ID</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">HULL_COLOR_PENTA_GREY_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">HULL_COLOR_PENTA_YELLOW_ID</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">HULL_COLOR_PENTA_GREY_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">HULL_COLOR_PENTA_WHITE_ID</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">HULL_COLOR_PENTA_GREY_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">HULL_COLOR_TETRA_RED_ID</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">HULL_COLOR_TETRA_GREY_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">HULL_COLOR_TETRA_PURPLE_ID</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">HULL_COLOR_TETRA_GREY_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">HULL_COLOR_TETRA_BROWN_ID</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">HULL_COLOR_TETRA_GREY_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">HULL_COLOR_TETRA_BLACK_ID</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">HULL_COLOR_TETRA_GREY_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">HULL_COLOR_TETRA_BLUE_ID</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">HULL_COLOR_TETRA_GREY_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">HULL_COLOR_TETRA_GREEN_ID</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">HULL_COLOR_TETRA_GREY_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">HULL_COLOR_TETRA_YELLOW_ID</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">HULL_COLOR_TETRA_GREY_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">HULL_COLOR_TETRA_WHITE_ID</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">HULL_COLOR_TETRA_GREY_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">POWERHULL_COLOR_RED</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">POWERHULL_COLOR_GREY</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">POWERHULL_COLOR_PURPLE</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">POWERHULL_COLOR_GREY</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">POWERHULL_COLOR_BROWN</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">POWERHULL_COLOR_GREY</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">POWERHULL_COLOR_BLACK</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">POWERHULL_COLOR_GREY</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">POWERHULL_COLOR_BLUE</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">POWERHULL_COLOR_GREY</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">POWERHULL_COLOR_GREEN</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">POWERHULL_COLOR_GREY</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">POWERHULL_COLOR_YELLOW</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">POWERHULL_COLOR_GREY</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">POWERHULL_COLOR_WHITE</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">POWERHULL_COLOR_GREY</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">POWERHULL_COLOR_WEDGE_RED</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">POWERHULL_COLOR_WEDGE_GREY</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">POWERHULL_COLOR_WEDGE_PURPLE</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">POWERHULL_COLOR_WEDGE_GREY</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">POWERHULL_COLOR_WEDGE_BROWN</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">POWERHULL_COLOR_WEDGE_GREY</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">POWERHULL_COLOR_WEDGE_BLACK</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">POWERHULL_COLOR_WEDGE_GREY</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">POWERHULL_COLOR_WEDGE_BLUE</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">POWERHULL_COLOR_WEDGE_GREY</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">POWERHULL_COLOR_WEDGE_GREEN</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">POWERHULL_COLOR_WEDGE_GREY</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">POWERHULL_COLOR_WEDGE_YELLOW</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">POWERHULL_COLOR_WEDGE_GREY</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">POWERHULL_COLOR_WEDGE_WHITE</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">POWERHULL_COLOR_WEDGE_GREY</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">POWERHULL_COLOR_CORNER_RED</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">POWERHULL_COLOR_CORNER_GREY</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">POWERHULL_COLOR_CORNER_PURPLE</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">POWERHULL_COLOR_CORNER_GREY</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">POWERHULL_COLOR_CORNER_BROWN</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">POWERHULL_COLOR_CORNER_GREY</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">POWERHULL_COLOR_CORNER_BLACK</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">POWERHULL_COLOR_CORNER_GREY</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">POWERHULL_COLOR_CORNER_BLUE</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">POWERHULL_COLOR_CORNER_GREY</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">POWERHULL_COLOR_CORNER_GREEN</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">POWERHULL_COLOR_CORNER_GREY</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">POWERHULL_COLOR_CORNER_YELLOW</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">POWERHULL_COLOR_CORNER_GREY</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">POWERHULL_COLOR_CORNER_WHITE</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">POWERHULL_COLOR_CORNER_GREY</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">POWERHULL_COLOR_PENTA_RED</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">POWERHULL_COLOR_PENTA_GREY</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">POWERHULL_COLOR_PENTA_PURPLE</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">POWERHULL_COLOR_PENTA_GREY</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">POWERHULL_COLOR_PENTA_BROWN</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">POWERHULL_COLOR_PENTA_GREY</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">POWERHULL_COLOR_PENTA_BLACK</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">POWERHULL_COLOR_PENTA_GREY</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">POWERHULL_COLOR_PENTA_BLUE</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">POWERHULL_COLOR_PENTA_GREY</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">POWERHULL_COLOR_PENTA_GREEN</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">POWERHULL_COLOR_PENTA_GREY</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">POWERHULL_COLOR_PENTA_YELLOW</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">POWERHULL_COLOR_PENTA_GREY</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">POWERHULL_COLOR_PENTA_WHITE</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">POWERHULL_COLOR_PENTA_GREY</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">POWERHULL_COLOR_TETRA_RED</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">POWERHULL_COLOR_TETRA_GREY</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">POWERHULL_COLOR_TETRA_PURPLE</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">POWERHULL_COLOR_TETRA_GREY</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">POWERHULL_COLOR_TETRA_BROWN</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">POWERHULL_COLOR_TETRA_GREY</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">POWERHULL_COLOR_TETRA_BLACK</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">POWERHULL_COLOR_TETRA_GREY</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">POWERHULL_COLOR_TETRA_BLUE</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">POWERHULL_COLOR_TETRA_GREY</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">POWERHULL_COLOR_TETRA_GREEN</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">POWERHULL_COLOR_TETRA_GREY</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">POWERHULL_COLOR_TETRA_YELLOW</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">POWERHULL_COLOR_TETRA_GREY</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="10">POWERHULL_COLOR_TETRA_WHITE</Item>
+<Item count="1">TERRAIN_WATER</Item>
+</Input>
+<Output>
+<Item count="10">POWERHULL_COLOR_TETRA_GREY</Item>
+</Output>
+</Product>
 </Recipe>
 <Recipe costAmount="-1" costType="CREDITS" name="Capsule Refinery">
 <Product>
