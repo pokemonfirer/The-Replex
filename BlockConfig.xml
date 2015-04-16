@@ -19565,16 +19565,16 @@
 <Element>FACTORY_POWER_BLOCK_ID</Element>
 <Element>FACTORY_POWER_CELL_ID</Element>
 <Element>FACTORY_POWER_COIL_ID</Element>
-<Element>STASH_ELEMENT</Element>
 <Element>FACTORY_INPUT_ID</Element>
+<Element>STASH_ELEMENT</Element>
 </ControlledBy>
 <Controlling>
 <Element>FACTORY_SD1000</Element>
 <Element>FACTORY_POWER_BLOCK_ID</Element>
 <Element>FACTORY_POWER_CELL_ID</Element>
 <Element>FACTORY_POWER_COIL_ID</Element>
-<Element>STASH_ELEMENT</Element>
 <Element>FACTORY_INPUT_ID</Element>
+<Element>STASH_ELEMENT</Element>
 </Controlling>
 <Animated>false</Animated>
 <Armour>0</Armour>
@@ -21698,8 +21698,8 @@
 <Element>JUMP_DRIVE_CONTROLLER</Element>
 <Element>CLOAKING_ID</Element>
 <Element>THRUSTER_ID</Element>
-<Element>RADAR_JAMMING_ID</Element>
 <Element>PULSE_CONTROLLER_ID</Element>
+<Element>RADAR_JAMMING_ID</Element>
 </Controlling>
 <Animated>true</Animated>
 <Armour>85</Armour>
@@ -22173,8 +22173,8 @@
 <Element>FACTORY_POWER_BLOCK_ID</Element>
 <Element>FACTORY_POWER_CELL_ID</Element>
 <Element>FACTORY_POWER_COIL_ID</Element>
-<Element>STASH_ELEMENT</Element>
 <Element>FACTORY_INPUT_ID</Element>
+<Element>STASH_ELEMENT</Element>
 </ControlledBy>
 <Controlling>
 <Element>FACTORY_SD1000</Element>
@@ -22182,8 +22182,8 @@
 <Element>FACTORY_INPUT_ENH_ID</Element>
 <Element>FACTORY_POWER_CELL_ID</Element>
 <Element>FACTORY_POWER_COIL_ID</Element>
-<Element>STASH_ELEMENT</Element>
 <Element>FACTORY_INPUT_ID</Element>
+<Element>STASH_ELEMENT</Element>
 </Controlling>
 <Factory>INPUT</Factory>
 <Animated>false</Animated>
@@ -22247,8 +22247,8 @@
 <Element>FACTORY_POWER_BLOCK_ID</Element>
 <Element>FACTORY_POWER_CELL_ID</Element>
 <Element>FACTORY_POWER_COIL_ID</Element>
-<Element>STASH_ELEMENT</Element>
 <Element>FACTORY_INPUT_ID</Element>
+<Element>STASH_ELEMENT</Element>
 </ControlledBy>
 <Controlling>
 <Element>FACTORY_SD1000</Element>
@@ -22256,8 +22256,8 @@
 <Element>FACTORY_INPUT_ENH_ID</Element>
 <Element>FACTORY_POWER_CELL_ID</Element>
 <Element>FACTORY_POWER_COIL_ID</Element>
-<Element>STASH_ELEMENT</Element>
 <Element>FACTORY_INPUT_ID</Element>
+<Element>STASH_ELEMENT</Element>
 </Controlling>
 <Factory>INPUT</Factory>
 <Animated>false</Animated>
@@ -22321,8 +22321,8 @@
 <Element>FACTORY_POWER_BLOCK_ID</Element>
 <Element>FACTORY_POWER_CELL_ID</Element>
 <Element>FACTORY_POWER_COIL_ID</Element>
-<Element>STASH_ELEMENT</Element>
 <Element>FACTORY_INPUT_ID</Element>
+<Element>STASH_ELEMENT</Element>
 </ControlledBy>
 <Controlling>
 <Element>FACTORY_SD1000</Element>
@@ -22330,8 +22330,8 @@
 <Element>FACTORY_INPUT_ENH_ID</Element>
 <Element>FACTORY_POWER_CELL_ID</Element>
 <Element>FACTORY_POWER_COIL_ID</Element>
-<Element>STASH_ELEMENT</Element>
 <Element>FACTORY_INPUT_ID</Element>
+<Element>STASH_ELEMENT</Element>
 </Controlling>
 <Factory>INPUT</Factory>
 <Animated>false</Animated>
@@ -22395,8 +22395,8 @@
 <Element>FACTORY_POWER_BLOCK_ID</Element>
 <Element>FACTORY_POWER_CELL_ID</Element>
 <Element>FACTORY_POWER_COIL_ID</Element>
-<Element>STASH_ELEMENT</Element>
 <Element>FACTORY_INPUT_ID</Element>
+<Element>STASH_ELEMENT</Element>
 </ControlledBy>
 <Controlling>
 <Element>FACTORY_SD1000</Element>
@@ -22404,8 +22404,8 @@
 <Element>FACTORY_INPUT_ENH_ID</Element>
 <Element>FACTORY_POWER_CELL_ID</Element>
 <Element>FACTORY_POWER_COIL_ID</Element>
-<Element>STASH_ELEMENT</Element>
 <Element>FACTORY_INPUT_ID</Element>
+<Element>STASH_ELEMENT</Element>
 </Controlling>
 <Factory>INPUT</Factory>
 <Animated>false</Animated>
@@ -22469,8 +22469,8 @@
 <Element>FACTORY_INPUT_ENH_ID</Element>
 <Element>FACTORY_POWER_CELL_ID</Element>
 <Element>FACTORY_POWER_COIL_ID</Element>
-<Element>STASH_ELEMENT</Element>
 <Element>FACTORY_INPUT_ID</Element>
+<Element>STASH_ELEMENT</Element>
 </ControlledBy>
 <Controlling>
 <Element>FACTORY_SD1000</Element>
@@ -22478,8 +22478,8 @@
 <Element>FACTORY_INPUT_ENH_ID</Element>
 <Element>FACTORY_POWER_CELL_ID</Element>
 <Element>FACTORY_POWER_COIL_ID</Element>
-<Element>STASH_ELEMENT</Element>
 <Element>FACTORY_INPUT_ID</Element>
+<Element>STASH_ELEMENT</Element>
 </Controlling>
 <Factory>INPUT</Factory>
 <Animated>false</Animated>
@@ -22768,8 +22768,8 @@
 <Element>FACTORY_POWER_BLOCK_ID</Element>
 <Element>FACTORY_POWER_CELL_ID</Element>
 <Element>FACTORY_POWER_COIL_ID</Element>
-<Element>STASH_ELEMENT</Element>
 <Element>FACTORY_INPUT_ID</Element>
+<Element>STASH_ELEMENT</Element>
 </ControlledBy>
 <Controlling>
 <Element>FACTORY_SD1000</Element>
@@ -22777,8 +22777,8 @@
 <Element>FACTORY_INPUT_ENH_ID</Element>
 <Element>FACTORY_POWER_CELL_ID</Element>
 <Element>FACTORY_POWER_COIL_ID</Element>
-<Element>STASH_ELEMENT</Element>
 <Element>FACTORY_INPUT_ID</Element>
+<Element>STASH_ELEMENT</Element>
 </Controlling>
 <Factory>INPUT</Factory>
 <Animated>false</Animated>
@@ -25331,7 +25331,7 @@
 <Price>5</Price>
 <Description>A thin metal alloy mesh.  \n\r&#13;\n\r&#13;These blocks are byproducts of the ore \n\r&#13;refining process, combining less \n\r&#13;useful metals into a useable alloy \n\r&#13;that is then manufactured into a \n\r&#13;sturdy mesh block.  \n\r&#13;\n\r&#13;-Structural Stats-\n\r&#13;$ARMOUR% Armor\n\r&#13;$HP HP</Description>
 <BlockResourceType>2</BlockResourceType>
-<ProducedInFactory>2</ProducedInFactory>
+<ProducedInFactory>3</ProducedInFactory>
 <BasicResourceFactory>215</BasicResourceFactory>
 <Consistence>
 <Item count="1">TERRAIN_ROCK_ID</Item>
@@ -25386,7 +25386,7 @@
 <Price>5</Price>
 <Description>A pearlescent crystal composite.\n\r&#13;\n\r&#13;These blocks are byproducts of refining \n\r&#13;crystal shards, combining extranious \n\r&#13;substrates into versatile crystal \n\r&#13;lattices that are then melded into a \n\r&#13;useful crystal block.  \n\r&#13;\n\r&#13;-Structural Stats-\n\r&#13;$ARMOUR% Armor\n\r&#13;$HP HP</Description>
 <BlockResourceType>2</BlockResourceType>
-<ProducedInFactory>2</ProducedInFactory>
+<ProducedInFactory>3</ProducedInFactory>
 <BasicResourceFactory>215</BasicResourceFactory>
 <Consistence>
 <Item count="1">TERRAIN_ROCK_ID</Item>
@@ -33192,14 +33192,6 @@
 <Item count="2">METAL_MESH</Item>
 </Output>
 </Product>
-<Product>
-<Input>
-<Item count="1">TERRAIN_ROCK_SPRITE</Item>
-</Input>
-<Output>
-<Item count="2">TERRAIN_ROCK_ID</Item>
-</Output>
-</Product>
 </Recipe>
 <Recipe costAmount="-1" costType="CREDITS" name="Capsule Refinery">
 <Product>
@@ -33408,14 +33400,6 @@
 <Output>
 <Item count="5">TERRAIN_M11L2_ID</Item>
 <Item count="10">POWER_COIL_ID</Item>
-</Output>
-</Product>
-<Product>
-<Input>
-<Item count="1">TERRAIN_ROCK_ID</Item>
-</Input>
-<Output>
-<Item count="2">TERRAIN_ROCK_SPRITE</Item>
 </Output>
 </Product>
 </Recipe>
