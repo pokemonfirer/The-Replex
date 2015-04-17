@@ -19565,16 +19565,16 @@
 <Element>FACTORY_POWER_BLOCK_ID</Element>
 <Element>FACTORY_POWER_CELL_ID</Element>
 <Element>FACTORY_POWER_COIL_ID</Element>
-<Element>FACTORY_INPUT_ID</Element>
 <Element>STASH_ELEMENT</Element>
+<Element>FACTORY_INPUT_ID</Element>
 </ControlledBy>
 <Controlling>
 <Element>FACTORY_SD1000</Element>
 <Element>FACTORY_POWER_BLOCK_ID</Element>
 <Element>FACTORY_POWER_CELL_ID</Element>
 <Element>FACTORY_POWER_COIL_ID</Element>
-<Element>FACTORY_INPUT_ID</Element>
 <Element>STASH_ELEMENT</Element>
+<Element>FACTORY_INPUT_ID</Element>
 </Controlling>
 <Animated>false</Animated>
 <Armour>0</Armour>
@@ -21698,8 +21698,8 @@
 <Element>JUMP_DRIVE_CONTROLLER</Element>
 <Element>CLOAKING_ID</Element>
 <Element>THRUSTER_ID</Element>
-<Element>PULSE_CONTROLLER_ID</Element>
 <Element>RADAR_JAMMING_ID</Element>
+<Element>PULSE_CONTROLLER_ID</Element>
 </Controlling>
 <Animated>true</Animated>
 <Armour>85</Armour>
@@ -22173,8 +22173,8 @@
 <Element>FACTORY_POWER_BLOCK_ID</Element>
 <Element>FACTORY_POWER_CELL_ID</Element>
 <Element>FACTORY_POWER_COIL_ID</Element>
-<Element>FACTORY_INPUT_ID</Element>
 <Element>STASH_ELEMENT</Element>
+<Element>FACTORY_INPUT_ID</Element>
 </ControlledBy>
 <Controlling>
 <Element>FACTORY_SD1000</Element>
@@ -22182,8 +22182,8 @@
 <Element>FACTORY_INPUT_ENH_ID</Element>
 <Element>FACTORY_POWER_CELL_ID</Element>
 <Element>FACTORY_POWER_COIL_ID</Element>
-<Element>FACTORY_INPUT_ID</Element>
 <Element>STASH_ELEMENT</Element>
+<Element>FACTORY_INPUT_ID</Element>
 </Controlling>
 <Factory>INPUT</Factory>
 <Animated>false</Animated>
@@ -22247,8 +22247,8 @@
 <Element>FACTORY_POWER_BLOCK_ID</Element>
 <Element>FACTORY_POWER_CELL_ID</Element>
 <Element>FACTORY_POWER_COIL_ID</Element>
-<Element>FACTORY_INPUT_ID</Element>
 <Element>STASH_ELEMENT</Element>
+<Element>FACTORY_INPUT_ID</Element>
 </ControlledBy>
 <Controlling>
 <Element>FACTORY_SD1000</Element>
@@ -22256,8 +22256,8 @@
 <Element>FACTORY_INPUT_ENH_ID</Element>
 <Element>FACTORY_POWER_CELL_ID</Element>
 <Element>FACTORY_POWER_COIL_ID</Element>
-<Element>FACTORY_INPUT_ID</Element>
 <Element>STASH_ELEMENT</Element>
+<Element>FACTORY_INPUT_ID</Element>
 </Controlling>
 <Factory>INPUT</Factory>
 <Animated>false</Animated>
@@ -22321,8 +22321,8 @@
 <Element>FACTORY_POWER_BLOCK_ID</Element>
 <Element>FACTORY_POWER_CELL_ID</Element>
 <Element>FACTORY_POWER_COIL_ID</Element>
-<Element>FACTORY_INPUT_ID</Element>
 <Element>STASH_ELEMENT</Element>
+<Element>FACTORY_INPUT_ID</Element>
 </ControlledBy>
 <Controlling>
 <Element>FACTORY_SD1000</Element>
@@ -22330,8 +22330,8 @@
 <Element>FACTORY_INPUT_ENH_ID</Element>
 <Element>FACTORY_POWER_CELL_ID</Element>
 <Element>FACTORY_POWER_COIL_ID</Element>
-<Element>FACTORY_INPUT_ID</Element>
 <Element>STASH_ELEMENT</Element>
+<Element>FACTORY_INPUT_ID</Element>
 </Controlling>
 <Factory>INPUT</Factory>
 <Animated>false</Animated>
@@ -22395,8 +22395,8 @@
 <Element>FACTORY_POWER_BLOCK_ID</Element>
 <Element>FACTORY_POWER_CELL_ID</Element>
 <Element>FACTORY_POWER_COIL_ID</Element>
-<Element>FACTORY_INPUT_ID</Element>
 <Element>STASH_ELEMENT</Element>
+<Element>FACTORY_INPUT_ID</Element>
 </ControlledBy>
 <Controlling>
 <Element>FACTORY_SD1000</Element>
@@ -22404,8 +22404,8 @@
 <Element>FACTORY_INPUT_ENH_ID</Element>
 <Element>FACTORY_POWER_CELL_ID</Element>
 <Element>FACTORY_POWER_COIL_ID</Element>
-<Element>FACTORY_INPUT_ID</Element>
 <Element>STASH_ELEMENT</Element>
+<Element>FACTORY_INPUT_ID</Element>
 </Controlling>
 <Factory>INPUT</Factory>
 <Animated>false</Animated>
@@ -22469,8 +22469,8 @@
 <Element>FACTORY_INPUT_ENH_ID</Element>
 <Element>FACTORY_POWER_CELL_ID</Element>
 <Element>FACTORY_POWER_COIL_ID</Element>
-<Element>FACTORY_INPUT_ID</Element>
 <Element>STASH_ELEMENT</Element>
+<Element>FACTORY_INPUT_ID</Element>
 </ControlledBy>
 <Controlling>
 <Element>FACTORY_SD1000</Element>
@@ -22478,8 +22478,8 @@
 <Element>FACTORY_INPUT_ENH_ID</Element>
 <Element>FACTORY_POWER_CELL_ID</Element>
 <Element>FACTORY_POWER_COIL_ID</Element>
-<Element>FACTORY_INPUT_ID</Element>
 <Element>STASH_ELEMENT</Element>
+<Element>FACTORY_INPUT_ID</Element>
 </Controlling>
 <Factory>INPUT</Factory>
 <Animated>false</Animated>
@@ -22768,8 +22768,8 @@
 <Element>FACTORY_POWER_BLOCK_ID</Element>
 <Element>FACTORY_POWER_CELL_ID</Element>
 <Element>FACTORY_POWER_COIL_ID</Element>
-<Element>FACTORY_INPUT_ID</Element>
 <Element>STASH_ELEMENT</Element>
+<Element>FACTORY_INPUT_ID</Element>
 </ControlledBy>
 <Controlling>
 <Element>FACTORY_SD1000</Element>
@@ -22777,8 +22777,8 @@
 <Element>FACTORY_INPUT_ENH_ID</Element>
 <Element>FACTORY_POWER_CELL_ID</Element>
 <Element>FACTORY_POWER_COIL_ID</Element>
-<Element>FACTORY_INPUT_ID</Element>
 <Element>STASH_ELEMENT</Element>
+<Element>FACTORY_INPUT_ID</Element>
 </Controlling>
 <Factory>INPUT</Factory>
 <Animated>false</Animated>
@@ -33050,6 +33050,166 @@
 </Product>
 </Recipe>
 <Recipe costAmount="-1" costType="CREDITS" name="Micro Assembler">
+<Product>
+<Input>
+<Item count="1">Black_Hull_Tetra</Item>
+</Input>
+<Output>
+<Item count="1">Black_Hull</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">Black_Hull_Penta</Item>
+</Input>
+<Output>
+<Item count="1">Black_Hull</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">Black_Hull_Corner</Item>
+</Input>
+<Output>
+<Item count="1">Black_Hull</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">Black_Hull_Wedge</Item>
+</Input>
+<Output>
+<Item count="1">Black_Hull</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">White_Hull_Tetra</Item>
+</Input>
+<Output>
+<Item count="1">White_Hull</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">White_Hull_Penta</Item>
+</Input>
+<Output>
+<Item count="1">White_Hull</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">White_Hull_Corner</Item>
+</Input>
+<Output>
+<Item count="1">White_Hull</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">White_Hull_Wedge</Item>
+</Input>
+<Output>
+<Item count="1">White_Hull</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">Grey_Hull_Tetra</Item>
+</Input>
+<Output>
+<Item count="1">Grey_Hull</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">Grey_Hull_Penta</Item>
+</Input>
+<Output>
+<Item count="1">Grey_Hull</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">Grey_Hull_Corner</Item>
+</Input>
+<Output>
+<Item count="1">Grey_Hull</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">Grey_Hull_Wedge</Item>
+</Input>
+<Output>
+<Item count="1">Grey_Hull</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">POWERHULL_COLOR_TETRA_ORANGE</Item>
+</Input>
+<Output>
+<Item count="1">POWERHULL_COLOR_ORANGE</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">POWERHULL_COLOR_PENTA_ORANGE</Item>
+</Input>
+<Output>
+<Item count="1">POWERHULL_COLOR_ORANGE</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">POWERHULL_COLOR_CORNER_ORANGE</Item>
+</Input>
+<Output>
+<Item count="1">POWERHULL_COLOR_ORANGE</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">POWERHULL_COLOR_WEDGE_ORANGE</Item>
+</Input>
+<Output>
+<Item count="1">POWERHULL_COLOR_ORANGE</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">HULL_COLOR_TETRA_ORANGE_ID</Item>
+</Input>
+<Output>
+<Item count="1">HULL_COLOR_ORANGE_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">HULL_COLOR_PENTA_ORANGE_ID</Item>
+</Input>
+<Output>
+<Item count="1">HULL_COLOR_ORANGE_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">HULL_COLOR_CORNER_ORANGE_ID</Item>
+</Input>
+<Output>
+<Item count="1">HULL_COLOR_ORANGE_ID</Item>
+</Output>
+</Product>
+<Product>
+<Input>
+<Item count="1">HULL_COLOR_WEDGE_ORANGE_ID</Item>
+</Input>
+<Output>
+<Item count="1">HULL_COLOR_ORANGE_ID</Item>
+</Output>
+</Product>
 <Product>
 <Input>
 <Item count="5">Scrap_Alloy</Item>
